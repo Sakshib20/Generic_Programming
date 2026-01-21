@@ -8,5 +8,5 @@ This repository explores the paradigm of **Generic Programming**, focusing on de
 
 ```text
 Generic_Programming/
-├── 📁 Practice/        # Implementation of generic algorithms & data structures
+├── 📁 Practice/        # Implementation of generic data structures
 └── 📄 README.md        # Documentation
