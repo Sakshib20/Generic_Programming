@@ -7,6 +7,7 @@ This repository explores the paradigm of **Generic Programming**, focusing on de
 ## 📂 Repository Structure
 
 ```text
-Generic_Programming/
-├── 📁 Practice/        # Implementation of generic data structures
-└── 📄 README.md        # Documentation
+📂 Repository Structure
+├── 📁 DataStructuresLibrary/   # Custom C++ STL implementation (Linked List, Stack, Queue, etc.)
+├── 📁 Practice/                # Daily coding exercises and experiments
+└── 📄 README.md                # Documentation
